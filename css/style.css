@@ -1,7 +1,7 @@
 .parallax {
     background-image: url("/img/Background.jpg");
 
-    height: 500px;
+    height: 100%;
     width: 100%;
 
     background-attachment: fixed;
@@ -9,7 +9,28 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.parallax-2 {
+    background-image: url("/img/gettyimages-.jpg");
 
+    height: 100%;
+    width: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-3 {
+    background-image: url("/img/gettyimages-3.jpg");
+
+    height: 100%;
+    width: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .main-content {
     height: 1000px;
     background-color: bisque;
